@@ -1,6 +1,6 @@
 #include <AFMotor.h>
 
-// Definição dos motores nos canais M2 e M3
+// Definição dos motores nos canais M2 & M3
 AF_DCMotor motorEsquerdo(2);  // Motor esquerdo conectado no M2
 AF_DCMotor motorDireito(3);   // Motor direito conectado no M3
 
